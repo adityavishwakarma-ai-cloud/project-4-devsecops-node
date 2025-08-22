@@ -1,5 +1,7 @@
 # 🔐 Project 4: DevSecOps Jenkins CI/CD Pipeline for Node.js App
 
+---
+
 ## 📌 Project Overview
 
 This project demonstrates the implementation of a **DevSecOps pipeline** using Jenkins for a Node.js application.
